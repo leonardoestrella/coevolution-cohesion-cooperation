@@ -6,9 +6,13 @@
 ---
 ### What is it?
  > Python-based replication of the simulations made by Joshi et al. (2017).
+>
  > It is an evolutionary-dynamics model to explore the coevolution of cooperation and cohesion in populations with fission-fusion dynamics
+> 
  > It uses matrix-based calculations for positions and velocities for a flocking-algorithm
+> 
  > It runs for several generations, and records data from each
+> 
  > It reduces computing time by not having animations
  ---
 ### References

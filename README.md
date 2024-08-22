@@ -1,4 +1,4 @@
-# CoevolutionCohesionCooperation
+# coevolution-cohesion-cooperation
 ---
 #### Libraries
  > threading: pip install threading
